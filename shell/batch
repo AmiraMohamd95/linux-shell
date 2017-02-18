@@ -1,0 +1,35 @@
+date
+ls
+ps
+cat file1
+ls -l
+whoami
+users
+who
+cat -b file2
+wc file2
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+        /bin/ls     -l 
+gedit &
+ps
+bin/ps
+exit
+pwd
+mkdir cs333
+touch cs333/lab1.txt
+wc cs333/lab1.txt
+vi cs333/lab1.txt
+exit
+cat cs333/lab1.txt
+echo z
+echo "hello world"
+echo              	"hello           world"
+history
+!!
+!3
+
+
+

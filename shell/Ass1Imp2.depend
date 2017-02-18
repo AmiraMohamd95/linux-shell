@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1476563400 source:/home/amira/Desktop/Desk/3rd_Year_First_Term/OS/OS_C_assignments/Ass1Imp2/main.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<sys/wait.h>
+
+1476567392 source:/home/amira/Desktop/lab1_14/Ass1Imp2/main.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<sys/wait.h>
+
