@@ -1,3 +1,3 @@
 # linux-shell
 
-simple program for handling linux commands, wriiten in c.    
+simple program for handling linux commands, written in c.    
